@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changes of person 2
+=======
+done chage s
+>>>>>>> b696aa4c33e8a43fa46a0d2444905e07329d0ff9
